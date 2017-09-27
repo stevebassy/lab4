@@ -15,7 +15,7 @@ public class Main {
 
 
         if (Money > 1) {
-            System.out.println("That's what I thought ");
+            System.out.println("That's what I thought  ");
 
         } else {
             System.out.println("You are getting the beat down!");
